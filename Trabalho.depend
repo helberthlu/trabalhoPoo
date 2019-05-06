@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1556576935 source:c:\users\cliente\documents\c++\trabalho\data.cpp
+
+1556576878 source:c:\users\cliente\documents\c++\trabalho\filme.cpp
+
+1556576797 source:c:\users\cliente\documents\c++\trabalho\locacao.cpp
+
+1556585258 source:c:\users\cliente\documents\c++\trabalho\amigo.cpp
+	<string>
+	<iostream>
+	"Amigo.h"
+
+1556584802 source:c:\users\cliente\documents\c++\trabalho\main.cpp
+	<iostream>
+	<string>
+	<iomanip>
+	"Amigo.h"
+
+1556584862 c:\users\cliente\documents\c++\trabalho\amigo.h
+	<string>
+
