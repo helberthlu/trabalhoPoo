@@ -3,14 +3,16 @@
 #include<string>
 
 using namespace std;
-class Data:
+class Data
 {
         public:
+        Data(int,int,int);
         void setDia(int);
         void setMes(int);
         void setAno(int);
 
-
+        string getData();
+        int diferencaDias(Data);
         int getDia();
         int getMes();
         int getAno();

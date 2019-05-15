@@ -4,16 +4,22 @@
 
 using namespace std;
 
-int Amigo::contador = 0;
+int Amigo::contador =0;
 
 Amigo:: Amigo()
 {
-    id++;
-    contador ++;
+  gerarId();
 }
-void Amigo::setId(int _id)
+
+int Amigo::gerarId()
 {
-    id = _id;
+     id = contador + 1;
+     return contador ++;
+}
+
+int Amigo::getId()
+{
+    return id;
 }
 
 void Amigo:: setNome(string _nome)
@@ -35,4 +41,6 @@ string Amigo:: getNome()
 {
     return nome;
 }
+
+
 

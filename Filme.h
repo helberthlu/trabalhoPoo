@@ -4,12 +4,13 @@
 
 using namespace std;
 class Filme
+{
         public:
-        void setId(int);
+        Filme();
         void setTitulo(string);
         void setGenero(string);
         void setAno(int);
-        void cadastroAmigo();
+        int gerarId();
 
         int getId();
         string getTitulo();
@@ -18,14 +19,13 @@ class Filme
 
 
         private:
+
         int id;
-        string titulo:
+        static int contadorFilme;
+        string titulo;
         string genero;
         int ano;
 
 };
-
-
-
-
 #endif // FILME_H_INCLUDED
+

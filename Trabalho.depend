@@ -19,3 +19,53 @@
 1556584862 c:\users\cliente\documents\c++\trabalho\amigo.h
 	<string>
 
+1557677602 source:d:\w\desktop\trabalhopoo\amigo.cpp
+	<string>
+	<iostream>
+	"Amigo.h"
+
+1557674721 d:\w\desktop\trabalhopoo\amigo.h
+	<string>
+
+1557942381 source:d:\w\desktop\trabalhopoo\data.cpp
+	<iostream>
+	"Data.h"
+	<string>
+	<sstream>
+	<stdlib.h>
+
+1557678285 source:d:\w\desktop\trabalhopoo\filme.cpp
+	<string>
+	<iostream>
+	"Filme.h"
+
+1557941487 source:d:\w\desktop\trabalhopoo\locacao.cpp
+	<string>
+	<iostream>
+	"Amigo.h"
+	"Locacao.h"
+	"Data.h"
+
+1557944238 source:d:\w\desktop\trabalhopoo\main.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	<iomanip>
+	<windows.h>
+	"Amigo.h"
+	"Filme.h"
+	"Data.h"
+	"Locacao.h"
+
+1557677803 d:\w\desktop\trabalhopoo\filme.h
+	<string>
+
+1557713694 d:\w\desktop\trabalhopoo\data.h
+	<string>
+
+1557933435 d:\w\desktop\trabalhopoo\locacao.h
+	<string>
+	"Data.h"
+	"Filme.h"
+	"Amigo.h"
+
